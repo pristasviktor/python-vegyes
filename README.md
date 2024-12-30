@@ -17,7 +17,7 @@ Ebben a kurzusban minden házi feladatot a GitHub Classroomon keresztül fogsz b
 ## Feladat Megoldása
 
 1. **Feladat implementálása**:
-   - Nyisd meg a `homework.py` fájlt, és valósítsd meg a kért függvényeket vagy programot a megadott specifikációk alapján.
+   - A feladatokat a `src` mappában, a `lists.py`, `math.py`, `mixed.py` és `strings.py` fájlokban találod. Ezekben vannak elkészítve a feladatok a függvények fejlécével együtt. Csak ezeket a fájlokat módosítsd, de a függvények neveit ne változtasd meg. 
 
 2. **Tesztelés (opcionális)**:
    - A megoldásod helyességét tesztfájlokkal ellenőrizheted, amelyek a `tests/` mappában találhatóak.
